@@ -1,3 +1,7 @@
+Date of tutorials: October 21 & again October 26 (sick so wanted to do again) 
+Date of Github account: I have had a personal one for years, but I made one with my school account today. 
+
+
 1. Paste the console output you saved at the end of step 3.C (2 points)
 Enumerating objects: 9, done.
 Counting objects: 100% (9/9), done.
@@ -35,4 +39,12 @@ git log --grep="file"
 Inheritnance- Allows subclasses to inherit methods and attributes. 
 Polymorphism- Can reperesent several different data types or classes.
 Encapsulation- Restructs internal data by using methods and modifiers. 
+
+
+9.  What is the main difference between the “Dictator and Lieutenants” workflow and the “Integration manager” workflow? (5 points)
+
+Dictators push to main repository while Lieutenants manage users changes.
+
+10. How would a team of 100 developers benefit from following the “Dictator and Lieutenants” workflow instead of the “Centralized” workflow? (5 points)
+It would spread work out over Lieutenants to reduce bottlenecks. 
 
